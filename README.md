@@ -9,4 +9,5 @@
 <a href="https://jpmendezz.github.io/JP-Conversao-Moedas/"><img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/6b654b40-091e-47ee-b806-997c631037d3" width="80px"></a>
 <br><br>
 <h2>Demonstração do prjeto! 👇</h2>
-<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/103ae7fe-7862-49a2-bbb8-60df1fd333cc">
+<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/4777f76a-7d66-4bde-898e-ece7bd3a81fb">
+<hr>
